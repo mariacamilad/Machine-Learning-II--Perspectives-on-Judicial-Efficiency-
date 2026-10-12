@@ -1,0 +1,8 @@
+,error % mediana,error % mediana,error % duración media a 60 meses,error % duración media a 60 meses
+diseno,A: artículo (solo dispuestos 2018-2022),B: cohorte con censura,A: artículo (solo dispuestos 2018-2022),B: cohorte con censura
+case_type,,,,
+ANTI-CORRUPTION,-10.0,0.0,-6.4,2.9
+CIVIL,-17.2,0.0,-10.9,0.3
+CONSTITUTIONAL,-5.9,0.0,-6.6,0.0
+CRIMINAL,-8.3,0.0,-9.4,0.4
+FAMILY,-37.9,1.7,-17.3,0.3

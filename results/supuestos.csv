@@ -1,0 +1,8 @@
+,Supuesto,Justificación
+S1,Proporción de casos por tipo,No reportada en el artículo; tomada del conjunto compartido por los autores.
+S2,Proporción de apelaciones por tipo,No reportada; tomada del conjunto compartido por los autores.
+S3,Efecto de la apelación sobre el tiempo,"Razón de tiempos exp(0.130)=1.139 tomada de la Tabla 4 (Weibull), común a todos los tipos."
+S4,Llegada de casos,Radicación uniforme entre ene-2012 y dic-2022; el artículo solo indica el periodo.
+S5,Mecanismo de observación,Solo entran casos dispuestos entre ene-2018 y dic-2022 (inferido de disposal_year).
+S6,Distribución del tiempo latente,"Weibull por tipo de caso, calibrada contra media, mediana y DE de la Tabla 1."
+S7,Medición del tiempo,"Meses completos (piso), lo que produce duraciones de 0 meses."
